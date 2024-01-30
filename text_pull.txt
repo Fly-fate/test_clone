@@ -1,17 +1,3 @@
-<<<<<<< HEAD
-local text_pull asdasd
-
-=======
-first
-web
-second
-132
-<<<<<<< HEAD
->>>>>>> 53c48bfe4b9bff7c488893862442d490423bea64
-=======
-456
->>>>>>> c1ecfa90ae595a11302978fd80cb5b0bef97605c
-
 
 852
 159
