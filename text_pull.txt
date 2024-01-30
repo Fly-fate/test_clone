@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 local text_pull
+=======
+web text_pull
+>>>>>>> d553706a3129887d3f6dc104117595e4ab34518e
+123465
