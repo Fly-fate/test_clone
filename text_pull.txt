@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 local text_pull asdasd
 
+=======
+first
+web
+second
+132
+>>>>>>> 53c48bfe4b9bff7c488893862442d490423bea64
