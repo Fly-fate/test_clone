@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 local text_pull
 =======
 web text_pull
@@ -8,3 +9,7 @@ web text_pull
 =======
 second
 >>>>>>> 7257f97099ad788f22cc2cad9560279277343d0f
+=======
+first
+web
+>>>>>>> 908d5d9d5accdf001d9fd715ba463c243cd2d006
