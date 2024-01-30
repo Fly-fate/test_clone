@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 first
 second
+=======
+first1
+>>>>>>> 0ff9c36e7e407b08963bf19b24e6821c2d6b1bdb
